@@ -1,0 +1,11 @@
+date,client_id,client_name,service_name,total_consumed_tokens
+2025-05-03,CLI001,TechCorp Solutions,API Gateway,19800
+2025-05-03,CLI002,DataFlow Inc,Text Analytics,13750
+2025-05-03,CLI003,InnovateLab,Document Processing,27200
+2025-05-03,CLI004,CloudSync Ltd,Translation API,16300
+2025-05-03,CLI005,NexGen Analytics,Content Generation,31900
+2025-05-03,CLI006,SmartReach Media,Social Media API,12100
+2025-05-03,CLI007,VisionTech Corp,Image Recognition,23650
+2025-05-03,CLI008,AutoFlow Systems,Workflow API,17500
+2025-05-03,CLI012,HealthTech Solutions,Medical Analysis,25800
+2025-05-03,CLI013,EduSmart Platform,Learning Analytics,20450

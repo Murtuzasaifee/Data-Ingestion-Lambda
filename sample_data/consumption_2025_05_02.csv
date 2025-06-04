@@ -1,0 +1,11 @@
+date,client_id,client_name,service_name,total_consumed_tokens
+2025-05-02,CLI001,TechCorp Solutions,Chatbot Service,15680
+2025-05-02,CLI002,DataFlow Inc,Sentiment Analysis,11200
+2025-05-02,CLI003,InnovateLab,OCR Processing,22850
+2025-05-02,CLI004,CloudSync Ltd,Language Detection,8940
+2025-05-02,CLI005,NexGen Analytics,Report Generation,29750
+2025-05-02,CLI006,SmartReach Media,Content Moderation,13500
+2025-05-02,CLI007,VisionTech Corp,Object Detection,24100
+2025-05-02,CLI008,AutoFlow Systems,Data Extraction,18300
+2025-05-02,CLI009,SecureNet Ltd,Threat Analysis,17890
+2025-05-02,CLI011,FinanceFlow Inc,Financial Analysis,26400
