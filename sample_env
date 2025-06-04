@@ -1,0 +1,13 @@
+S3_BUCKET=S3_BUCKET_NAME ## data_ingestion
+S3_PREFIX=S3_BUCKET_PREFIX ## data/consumption/
+CHECKPOINT_KEY=checkpoint/last_processed_date.txt
+MISSING_DATES_KEY=checkpoint/missing_dates.txt
+DB_NAME=DB_NAME
+DB_USER=DB_USER
+DB_PASSWORD=DB_PASSWORD
+DB_HOST=localhost
+DB_PORT=5432 ## for postgress
+DB_PORT=localhost ## for local port forwarding for testing
+SECRET_NAME=SECRET_NAME
+REGION_NAME=AWA_REGION ## us-east-1
+DEFAULT_DATE=DEFAULT_DATE ##2025_04_30
